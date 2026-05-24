@@ -1,7 +1,7 @@
 Summary:	Advanced MIDI arpeggiator, programmable step sequencer and LFO
 Name:		qmidiarp
 Version:	0.6.5
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications
 Source0:	http://downloads.sourceforge.net/qmidiarp/%{name}-%{version}.tar.bz2
